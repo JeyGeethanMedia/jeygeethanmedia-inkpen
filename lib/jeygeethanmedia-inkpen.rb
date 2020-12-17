@@ -1,4 +1,4 @@
-module Lines
+module JeygeethanmediaInkpen
   if defined?(Rails)
     require "lines/engine"
   end
